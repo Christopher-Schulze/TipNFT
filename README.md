@@ -5,8 +5,9 @@
 [![Hardhat](https://hardhat.org/hardhat-plugin-badges/badge.svg)](https://hardhat.org)
 
 <div align="center">
-  <img src="https://github.com/Christopher-Schulze/TipNFT/raw/main/logo/tipnft_512x512.png" alt="TipNFT Logo" width="300" style="background: transparent;">
+  <img src="logo/tipnft_512x512.png" alt="TipNFT Logo" width="300">
 </div>
+
 
 > **TipNFT** is a meticulously crafted smart contract that allows users to mint unique Non-Fungible Tokens (NFTs) by sending Ether (ETH) tips. Each donation is rewarded with an NFT badge, categorized into different tiers based on the tip amount. The project emphasizes robust security measures, gas efficiency, and strict adherence to critical NFT standards such as ERC721, ERC721Enumerable, and ERC2981, reflecting a commitment to expert smart contract engineering and a high-quality, professional-grade implementation.
 
