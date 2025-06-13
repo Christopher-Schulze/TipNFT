@@ -5,7 +5,7 @@
 [![Hardhat](https://hardhat.org/hardhat-plugin-badges/badge.svg)](https://hardhat.org)
 
 <div align="center">
-  <img src="logo/tipnft_512x512.png" alt="TipNFT Logo" width="300">
+  <img src="logo/tipnft_512x512.png" alt="TipNFT Logo" width="400">
 </div>
 
 
