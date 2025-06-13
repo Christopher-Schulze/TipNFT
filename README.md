@@ -4,8 +4,11 @@
 [![Solidity Version](https://img.shields.io/badge/solidity-%5E0.8.20-blue)](https://soliditylang.org/)
 [![Hardhat](https://hardhat.org/hardhat-plugin-badges/badge.svg)](https://hardhat.org)
 
-<div align="center" style="background: transparent;">
-  <img src="logo/tipnft_512x512.png?v=2" alt="TipNFT Logo" width="300" style="background: transparent;"/>
+<div align="center">
+  <picture>
+    <source srcset="https://raw.githubusercontent.com/Christopher-Schulze/TipNFT/main/logo/tipnft_512x512.png?raw=true" media="(prefers-color-scheme: dark)">
+    <img src="https://raw.githubusercontent.com/Christopher-Schulze/TipNFT/main/logo/tipnft_512x512.png?raw=true" alt="TipNFT Logo" width="300" style="background: transparent;">
+  </picture>
 </div>
 
 > **TipNFT** is a meticulously crafted smart contract that allows users to mint unique Non-Fungible Tokens (NFTs) by sending Ether (ETH) tips. Each donation is rewarded with an NFT badge, categorized into different tiers based on the tip amount. The project emphasizes robust security measures, gas efficiency, and strict adherence to critical NFT standards such as ERC721, ERC721Enumerable, and ERC2981, reflecting a commitment to expert smart contract engineering and a high-quality, professional-grade implementation.
