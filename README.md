@@ -2,7 +2,6 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solidity Version](https://img.shields.io/badge/solidity-%5E0.8.20-blue)](https://soliditylang.org/)
-[![Hardhat](https://hardhat.org/hardhat-plugin-badges/badge.svg)](https://hardhat.org)
 
 <div align="center">
   <img src="logo/tipnft_512x512.png" alt="TipNFT Logo" width="400">
