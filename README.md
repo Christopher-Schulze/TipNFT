@@ -38,7 +38,6 @@ TipNFT/
 │   └── Reenter.sol         # Attacker contract for reentrancy tests
 ├── docs/
 │   ├── DOCUMENTATION.md    # Detailed technical documentation
-│   └── Changelog.md        # Project changelog
 ├── scripts/
 │   └── deploy.js           # Hardhat deployment script
 ├── test/
