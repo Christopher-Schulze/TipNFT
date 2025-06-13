@@ -1,4 +1,4 @@
-<![CDATA[# TipNFT: Tiered NFT Minting Contract
+# TipNFT: Tiered NFT Minting Contract
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Solidity Version](https://img.shields.io/badge/solidity-%5E0.8.20-blue)](https://soliditylang.org/)
@@ -119,4 +119,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ---
 
 For more detailed information, please consult the [Full Technical Documentation](docs/DOCUMENTATION.md).
-]]>
